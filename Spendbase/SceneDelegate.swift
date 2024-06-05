@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Spendbase
-//
-//  Created by Даниил on 04.06.2024.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
